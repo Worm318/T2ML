@@ -1,4 +1,4 @@
-# Tarea 2 [INF-578] Maquinas de Aprendizaje
+# Tarea 2 [INF-578/INF-393] Maquinas de Aprendizaje
 
 Autores:
 - Roberto Diaz 2973502-6
